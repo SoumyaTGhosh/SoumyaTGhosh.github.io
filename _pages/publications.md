@@ -1,16 +1,26 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Model Selection in Bayesian Neural Networks via Horseshoe Priors </span>](https://arxiv.org/pdf/1705.10388.pdf)<br> <span style="font-size: 12pt"> **Soumya Ghosh** *and* **Finale Doshi-Velez**</span> <br> <span style="font-size: 12pt"> **arXiv 2017.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks</span>](http://cs-people.bu.edu/ajjendj/documents/AjjenJoshiCVPR2017_Paper.pdf) [Supplement](http://cs-people.bu.edu/ajjendj/documents/AjjenJoshiCVPR2017_Supplement.pdf){: .btn .btn--inverse}<br> <span style="font-size: 12pt"> **Ajjen Joshi, Soumya Ghosh, Margrit Betke, Stan Scarloff,** *and* **Hanspeter Pfister**</span><br> <span style="font-size: 12pt"> **CVPR 2017.** </span>  
+  * [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Hierarchical Bayesian Neural Networks for Personalized Classification</span>](http://cs-people.bu.edu/ajjendj/documents/AjjenJoshiNIPSW2016_Paper.pdf) [Poster](http://cs-people.bu.edu/ajjendj/documents/AjjenJoshiNIPSW2016_Poster.pdf){: .btn .btn--inverse} [Spotlight](http://cs-people.bu.edu/ajjendj/documents/AjjenJoshiNIPSW2016_Spotlight.pdf){: .btn .btn--inverse}<br> <span style="font-size: 12pt"> **Ajjen Joshi, Soumya Ghosh, Margrit Betke,** *and* **Hanspeter Pfister**</span>   <br> <span style="font-size: 12pt"> **NIPS 2016. Workshop on Bayesian Deep Learning.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> An Exploration of Latent Structure in Observational Huntington’s Disease Studies </span>](papers/Ghosh17AMIAJS.pdf) [Slides]("presentations/LVA_HD_AMIA_2017.pdf"){: .btn .btn--inverse}<br> <span style="font-size: 12pt"> **Soumya Ghosh, Zhaonan Sun, Ying Li, Yu Cheng, Amrita Mohan, Cristina Sampaio,** *and* **Jianying Hu** </span><br> <span style="font-size: 12pt"> **AMIA CRI 2017.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Assumed Density Filtering Methods for Learning Bayesian Neural Networks </span>](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12391)<br> <span style="font-size: 12pt"> **Soumya Ghosh, Francesco DelleFave,** *and* **Jonathan Yedidia** </span> <br> <span style="font-size: 12pt"> **AAAI 2016.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Approximate Bayesian Computation for Distance-Dependent Learning </span>](papers/GhoshSudderth15NipsW.pdf)<br> <span style="font-size: 12pt"> **Soumya Ghosh** *and* **Erik Sudderth** </span> <br> <span style="font-size: 12pt"> **NIPS 2015. Workshop on Bayesian Nonparametrics: The Next Generation.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Nonparametric Clustering with Distance Dependent Hierarchies </span>](papers/GhoshRaptisSigalSudderth14UAI.pdf) [Supplement](papers/Ghosh14UAISupplement.pdf){: .btn .btn--inverse} [Spotlight](papers/Ghosh14UAISpotlight.pdf){: .btn .btn--inverse}<br> <span style="font-size: 12pt"> **Soumya Ghosh, Michalis Raptis, Leonid Sigal,** *and* **Erik Sudderth** </span> <br> <span style="font-size: 12pt"> **UAI 2014.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> From Deformations to Parts:Motion-based Segmentation of 3D Objects </span>](papers/GhoshSudderthLoperBlack12NIPS.pdf) [Supplement](papers/GhoshSudderthLoperBlack12NIPS.pdf){: .btn .btn--inverse} [Code](https://github.com/SoumyaTGhosh/ddcrpMeshSeg){: .btn .btn--inverse}<br> <span style="font-size: 12pt"> **Soumya Ghosh, Erik Sudderth, Mathew Loper,** *and* **Michael Black** </span> <br> <span style="font-size: 12pt"> **NIPS 2012.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Nonparametric Learning for Layered Segmentation of Natural Images  </span>](papers/GhoshSudderth12CVPR.pdf)[Supplement](papers/GhoshSudderth12CVPR-supplement.pdf){: .btn .btn--inverse} <br> <span style="font-size: 12pt"> **Soumya Ghosh** *and* **Erik Sudderth** </span> <br> <span style="font-size: 12pt"> **CVPR 2012.** </span>
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Spatial distance dependent Chinese restaurant processes for image segmentation  </span>](papers/Ghosh11NIPS.pdf) <br> <span style="font-size: 12pt"> **Soumya Ghosh, Andrei Ungureanu, Erik Sudderth,** *and* **David Blei** </span> <br> <span style="font-size: 12pt"> **NIPS 2011.** </span>
+
+***
+## Dissertation
+* [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Bayesian nonparametric discovery of layers and parts from scenes and objects </span>](papers/Dissertation_2015.pdf)<br> **Soumya Ghosh**, Brown University, 2015.
