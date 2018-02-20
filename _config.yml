@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Soumya Ghosh"
@@ -55,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -249,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

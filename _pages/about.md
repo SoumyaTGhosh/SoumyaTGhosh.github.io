@@ -13,7 +13,7 @@ header:
   overlay_image: banner.png
 ---
 
-I am a research scientist at [IBM Research, Cambridge](http://www.research.ibm.com/labs/cambridge/). I work on developing statistical models for understanding and explaining images, text, and noisy, real world healthcare data.
+I am a research scientist at [IBM Research, Cambridge](http://www.research.ibm.com/labs/cambridge/) and the [MIT-IBM Watson AI lab](http://mitibmwatsonailab.mit.edu). I work on developing statistical models for understanding and explaining images, text, and noisy, real world healthcare data.
 
 I hold a Ph.D. in Computer Science from Brown University, where I was advised by [Erik Sudderth](https://www.ics.uci.edu/~sudderth). Before Brown, I spent a few years in beautiful Boulder getting a master's degree from the University of Colorado. At Colorado, I was advised by Jane Mulligan. Going further back, I went to the University of Mumbai (Bombay) (KJSCE) as an undergrad. I also spent a year as a postdoctoral scientist at the now defunct Disney research, Cambridge.
 
