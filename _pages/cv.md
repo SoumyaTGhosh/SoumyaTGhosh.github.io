@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Ph.D., Computer Science, Brown University, 2015.
-  - **Thesis** -- Bayesian nonparametric discovery of layers and parts from scenes and objects.  
+  - **Thesis** -- [Bayesian nonparametric discovery of layers and parts from scenes and objects](papers/Dissertation_2015.pdf).  
 * M.S., Computer Science, University of Colorado, Boulder, 2009.
 * M.S., Computer Science, University of Houston, 2006.
   - **Thesis** -- A Machine Learning approach for automated geomorphic map generation.
