@@ -61,6 +61,13 @@ redirect_from:
   arXiv 2017.
 
 ### Refereed Conference Proceedings
+* **Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors**
+<br>
+Soumya Ghosh, Jiayu Yao, and Finale Doshi-Velez. <br>
+35th International Conference on Machine Learning (ICML), 2018.
+* **Context-Sensitive Prediction of Facial Expressivity Using Multimodal Hierarchical Bayesian Neural Networks.** <br>
+Ajjen Joshi, Soumya Ghosh, Sarah Gunnery, Linda Tickle-Degnen, Stan Sclaroff, and Margrit Betke. <br>
+13th IEEE International Conference on Automatic Face & Gesture Recognition (FG), 2018.
 * **Early Prediction of Diabetes Complications from Electronic Health Records: A Multi-task Survival Analysis Approach.** <br>
 Bin Liu, Ying Li, Zhaonan Sun, Soumya Ghosh, and Kenney Ng. <br>
 32nd AAAI Conference On Artificial Intelligence (AAAI), 2018.
