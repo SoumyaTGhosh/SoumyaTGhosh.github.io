@@ -61,9 +61,11 @@ redirect_from:
   arXiv 2017.
 
 ### Refereed Conference Proceedings
+* **Unsupervised Learning with Contrastive Latent Variable Models**
+<br> Kristen Severson, Soumya Ghosh, and Kenney Ng. <br>
+33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.
 * **Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors**
-<br>
-Soumya Ghosh, Jiayu Yao, and Finale Doshi-Velez. <br>
+<br> Soumya Ghosh, Jiayu Yao, and Finale Doshi-Velez. <br>
 35th International Conference on Machine Learning (ICML), 2018.
 * **Context-Sensitive Prediction of Facial Expressivity Using Multimodal Hierarchical Bayesian Neural Networks.** <br>
 Ajjen Joshi, Soumya Ghosh, Sarah Gunnery, Linda Tickle-Degnen, Stan Sclaroff, and Margrit Betke. <br>
@@ -148,6 +150,10 @@ Soumya Ghosh and Erik Sudderth. <br>
 NIPS Workshop on Bayesian Nonparametrics: The Next Generation (NIPSW), 2015.
 
 ### Journal Articles
+* **A probabilistic disease progression modeling approach and its application to integrated Huntington’s disease observational data**
+<br> Zhaonan Sun, Soumya Ghosh, Ying Li, Yu Cheng, Amrita Mohan, Cristina Sampaio, and Jianying Hu.
+<br>
+JAMIA Open, 2019.
 * **Automatic Annotation of Planetary Surfaces With Geomorphic Labels.** <br>
  Soumya Ghosh, Tomasz F. Stepinski, Ricardo Vilalta. <br>
  IEEE Transactions on Geoscience and Remote Sensing, 48, 175–185, 2010.
@@ -208,10 +214,9 @@ Lunar and Planetary Science Conference (LPSC), 2007.
 * Organizing Committee Member:
   - North East Computational Health Summit (NECHS) 2017, 2018.
 * Program Committee Member / Reviewer:
-  - Advances in Neural Information Processing Systems (NIPS), 2017, 2016, 2015,
-2014 and 2013.
-  - International Conference on Machine Learning (ICML), 2018, 2017.
-  - IEEE Computer Vision and Pattern Recognition (CVPR), 2018, 2017, 2016, 2015.
+  - Advances in Neural Information Processing Systems (NIPS), 2017, 2016, 2015, 2014 and 2013.
+  - International Conference on Machine Learning (ICML), 2019, 2018, 2017.
+  - Computer Vision and Pattern Recognition (CVPR), 2019, 2018, 2017, 2016, 2015.
   - AAAI Conference on Artificial Intelligence (AAAI), 2018, 2017, 2016.
   - European Conference of Computer Vision (ECCV), 2016.
   - International Conference of Computer Vision (ICCV), 2015.
