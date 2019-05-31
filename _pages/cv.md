@@ -61,6 +61,9 @@ redirect_from:
   arXiv 2017.
 
 ### Refereed Conference Proceedings
+* **Bayesian Nonparametric Federated Learning of Neural Networks**
+<br> Mikhail Yurochkin, Mayank Agarwal, Soumya Ghosh, Kristjan Greenewald, Nghia Hoang, and Yasaman Khazaeni. <br>
+36th International Conference on Machine Learning (ICML), 2019.
 * **Unsupervised Learning with Contrastive Latent Variable Models**
 <br> Kristen Severson, Soumya Ghosh, and Kenney Ng. <br>
 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.
@@ -180,6 +183,8 @@ Lunar and Planetary Science Conference (LPSC), 2007.
     Summer 2015.
 
 ## Awards and Honors
+* 2019 CVPR Outstanding Reviewer.
+* 2019 Outstanding Technical Achievement Award (IBM) for Statistical Models of Disease Progression.
 * 2016 ICHI Data Challenge Winner.
 * 2014 UAI travel grant.
 * 2011 NIPS travel grant.
