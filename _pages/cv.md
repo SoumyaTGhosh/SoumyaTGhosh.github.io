@@ -12,10 +12,10 @@ redirect_from:
 ## Education
 * Ph.D., Computer Science, Brown University, 2015.
   - **Thesis** -- [Bayesian nonparametric discovery of layers and parts from scenes and objects](papers/Dissertation_2015.pdf).  
-* M.S., Computer Science, University of Colorado, Boulder, 2009.
-* M.S., Computer Science, University of Houston, 2006.
+* M.S., Computer Science, University of Colorado, Boulder.
+* M.S., Computer Science, University of Houston.
   - **Thesis** -- A Machine Learning approach for automated geomorphic map generation.
-* B.E., Computer Engineering, University of Mumbai, 2004.
+* B.E., Computer Engineering, University of Mumbai.
 
 ## Professional Experience
 * **Research Staff Member**, IBM Research, Cambridge, MA. _Feb 2016 - Present_
@@ -136,6 +136,9 @@ Tomasz F. Stepinski, Soumya Ghosh, Ricardo Vilalta.<br>
 International Conference on Discovery Science (DS), 2006.
 
 ### Refereed Workshop Abstracts
+* **Quality of Uncertainty Quantification for Bayesian Neural Network Inference**<br>
+Jiayu Yao, Weiwei Pan, Soumya Ghosh, Finale Doshi-Velez. <br>
+Uncertainty and Robustness workshop at ICML 2019.
 * **Model Selection in Bayesian Neural Networks via Horseshoe Priors.** <br>
 Soumya Ghosh and Finale Doshi-Velez. <br>
 NIPS Workshop on Bayesian Deep Learning, 2017.
