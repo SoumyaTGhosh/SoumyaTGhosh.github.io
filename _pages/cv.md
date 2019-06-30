@@ -139,6 +139,12 @@ International Conference on Discovery Science (DS), 2006.
 * **Quality of Uncertainty Quantification for Bayesian Neural Network Inference**<br>
 Jiayu Yao, Weiwei Pan, Soumya Ghosh, Finale Doshi-Velez. <br>
 Uncertainty and Robustness workshop at ICML 2019.
+* **Latent Projection BNNs: Avoiding weight-space pathologies by learning latent representations of neural network weights**<br>
+Melanie F Pradier, Weiwei Pan, Jiayu Yao, Soumya Ghosh, Finale Doshi-Velez <br>
+NeurIPS Workshop on Bayesian Deep Learning, 2018.
+* **Probabilistic Mixture of Model-Agnostic Meta-Learners** <br>
+Prasanna Sattigeri, Soumya Ghosh, Abhishek Kumar, Karthikeyan Natesan Ramamurthy, Samuel Hoffman, Inkit Padhi, and Youssef Drissi<br>
+NeurIPS Workshop on Bayesian Deep Learning, 2018.  
 * **Model Selection in Bayesian Neural Networks via Horseshoe Priors.** <br>
 Soumya Ghosh and Finale Doshi-Velez. <br>
 NIPS Workshop on Bayesian Deep Learning, 2017.
@@ -160,6 +166,9 @@ NIPS Workshop on Bayesian Nonparametrics: The Next Generation (NIPSW), 2015.
 <br> Zhaonan Sun, Soumya Ghosh, Ying Li, Yu Cheng, Amrita Mohan, Cristina Sampaio, and Jianying Hu.
 <br>
 JAMIA Open, 2019.
+* **Complication Risk Profiling in Diabetes Care: A Bayesian Multi-Task and Feature Relationship Learning Approach**
+<br> Bin Liu, Ying Li, Soumya Ghosh, Zhaonan Sun, Kenney Ng, and Jianying Hu
+<br> IEEE Transactions on Knowledge and Data Engineering. 2019.
 * **Automatic Annotation of Planetary Surfaces With Geomorphic Labels.** <br>
  Soumya Ghosh, Tomasz F. Stepinski, Ricardo Vilalta. <br>
  IEEE Transactions on Geoscience and Remote Sensing, 48, 175–185, 2010.
