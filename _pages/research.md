@@ -3,11 +3,12 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+font-size: $type-size-4;
 ---
 
 Broadly, I am interested in questions of trust in a machine learning (ML) analysis. I work on both tools to detect lack-of-robustness in ML analysis and methods for "robustifying" ML analysis through carefully designed models, algorithms that produce well-calibrated uncertainties, and are robust to poor optima.
 
-### [<span style="color:rgb(153, 0, 0)>Robustness to perturbations in data or modeling assumptions</span>
+### Robustness to perturbations in data or modeling assumptions
 Will the inferences drawn from a particular analysis or predictions made by a model change substantially under perturbations to training data, minor variations of modeling assumptions, or upon using alternate learning and inference algorithms? In this line of research, we develop tools for answering these questions.
 
 A naive approach to understanding the effect of data perturbations involves refitting the model of interest to many perturbations of the data. This is infeasible for large datasets and structured latent variable models, which involve expensive marginalization over latent variables. We develop efficient but accurate approximations which involve a single fit to the dataset and allow one to perturb data by dropping time-steps from within a time series or sites from a spatial extent. As a bonus, the same machinery can be used to approximate cross-validation in hidden Markov models and Markov random fields.
@@ -30,9 +31,9 @@ Quantifying the uncertainty of a prediction made by a modern neural network rema
 [ Post-hoc loss-calibration for Bayesian neural networks](https://arxiv.org/abs/2106.06997). UAI 2021.
 
 I am also interested in uncertainty quantification more broadly. I am a core contributor to the Uncertainty quantification [UQ360](https://github.com/IBM/UQ360) --- an open source toolbox that provides a number of approaches to quantifying, measuring the qualtiy, and communicating uncertainties. A white paper describing the toolbox:
-- Soumya Ghosh<sup>o</sup> and Q. Vera Liao and Karthikeyan Natesan Ramamurthy and Jiri Navratil and Prasanna Sattigeri and Kush R. Varshney and Yunfeng Zhang.
+- Soumya Ghosh<sup>\*</sup> and Q. Vera Liao and Karthikeyan Natesan Ramamurthy and Jiri Navratil and Prasanna Sattigeri and Kush R. Varshney and Yunfeng Zhang.
 [ Uncertainty Quantification 360: A Holistic Toolkit for Quantifying
-and Communicating the Uncertainty of AI](https://arxiv.org/abs/2106.01410). arXiv 2021. <sup>o</sup>All authors contributed equally.
+and Communicating the Uncertainty of AI](https://arxiv.org/abs/2106.01410). arXiv 2021. <sup>\*</sup>All authors contributed equally.
 
 
 ### Statistical models for healthcare: Hypothesis generation and disease progression Models
@@ -45,7 +46,7 @@ Data-driven hypothesis generation can be an effective tool for scientists studyi
 These representations are useful for characterizing the progression of diseases from longitudinal follow up of patients. Variants of hidden Markov models are effective for characterizing disease progression as a sequence of jumps between interpretable disease states.
 
 - Zhaonan Sun, Soumya Ghosh, Ying Li, Yu Cheng, Amrita Mohan, Cristina Sampaio, Jianying Hu. [A probabilistic disease progression modeling approach and its application to integrated Huntington’s disease observational data](https://academic.oup.com/jamiaopen/article/2/1/123/5280216). JAMIA Open 2019.
-- Kristen A Severson, Lana M Chahine, Luba A Smolensky, Murtaza Dhuliawala, Mark Frasier, Kenney Ng, Soumya Ghosh<sup>o</sup>, Jianying Hu<sup>o</sup>. [Discovery of Parkinson's disease states and disease progression modelling: a longitudinal data study using machine learning](https://www.sciencedirect.com/science/article/pii/S2589750021001011). Lancet Digital Health 2021.  <sup>o</sup>Equal contributions.
+- Kristen A Severson, Lana M Chahine, Luba A Smolensky, Murtaza Dhuliawala, Mark Frasier, Kenney Ng, Soumya Ghosh<sup>\*</sup>, Jianying Hu<sup>\*</sup>. [Discovery of Parkinson's disease states and disease progression modelling: a longitudinal data study using machine learning](https://www.sciencedirect.com/science/article/pii/S2589750021001011). Lancet Digital Health 2021.  <sup>\*</sup>Equal contributions.
 
 Tools for visualizing the results from such progression models are necessary for researchers to glean insights from such progression models.
 - Bum Chul Kwon, Vibha Anand, Kristen A Severson, Soumya Ghosh, Zhaonan Sun, Brigitte I Frohnert, Markus Lundgren, Kenney Ng. [DPVis: Visual analytics with hidden markov models for disease progression pathways](https://arxiv.org/pdf/1904.11652). IEEE Transactions on Visualization and Computer Graphics 2020.
