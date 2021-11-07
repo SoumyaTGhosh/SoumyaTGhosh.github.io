@@ -7,13 +7,13 @@ author_profile: true
 
 Broadly, I am interested in questions of trust in a machine learning (ML) analysis. I work on both tools to detect lack-of-robustness in ML analysis and methods for "robustifying" ML analysis through carefully designed models, algorithms that produce well-calibrated uncertainties, and are robust to poor optima.
 
-### Robustness to perturbations in data or modeling assumptions
+### [<span style="color:rgb(153, 0, 0)>Robustness to perturbations in data or modeling assumptions</span>
 Will the inferences drawn from a particular analysis or predictions made by a model change substantially under perturbations to training data, minor variations of modeling assumptions, or upon using alternate learning and inference algorithms? In this line of research, we develop tools for answering these questions.
 
 A naive approach to understanding the effect of data perturbations involves refitting the model of interest to many perturbations of the data. This is infeasible for large datasets and structured latent variable models, which involve expensive marginalization over latent variables. We develop efficient but accurate approximations which involve a single fit to the dataset and allow one to perturb data by dropping time-steps from within a time series or sites from a spatial extent. As a bonus, the same machinery can be used to approximate cross-validation in hidden Markov models and Markov random fields.
-* Soumya Ghosh<sup>\*</sup>, Will Stephenson<sup>\*</sup>, Tin D. Nguyen, Sameer Deshpande, Tamara Broderick. [<span style="color:rgb(153, 0, 0)"> Approximate Cross-Validation for Structured Models. </span>](https://papers.nips.cc/paper/2020/hash/636efd4f9aeb5781e9ea815cdd633e52-Abstract.html) NeurIPS 2020. <sup>\*</sup>equal conributions.
-  - Here is a [<span style="color:rgb(153, 0, 0)">talk</span>](https://www.youtube.com/watch?v=z0fXHnAvm9E) I gave at ISBA describing this work.
-  - Code is availble [<span style="color:rgb(153, 0, 0)">here</span>]((https://github.com/SoumyaTGhosh/structured-infinitesimal-jackknife) and also as part of the [<span style="color:rgb(153, 0, 0)">UQ360 toolbox</span>](https://github.com/IBM/UQ360)
+* Soumya Ghosh<sup>\*</sup>, Will Stephenson<sup>\*</sup>, Tin D. Nguyen, Sameer Deshpande, Tamara Broderick. [ Approximate Cross-Validation for Structured Models](https://papers.nips.cc/paper/2020/hash/636efd4f9aeb5781e9ea815cdd633e52-Abstract.html) NeurIPS 2020. <sup>\*</sup>equal conributions.
+  - Here is a [talk](https://www.youtube.com/watch?v=z0fXHnAvm9E) I gave at ISBA describing this work.
+  - Code is availble [here]((https://github.com/SoumyaTGhosh/structured-infinitesimal-jackknife) and also as part of the [UQ360 toolbox](https://github.com/IBM/UQ360).
 
 We can also consider the effect of modeling assumptions on inferences drawn from an ML analysis. We look at this question in the context of Gaussian processes and develop a methodology for measuring sensitivity to the choice of the kernel choice. Somewhat surprisingly, we find that in many cases, minor perturbations to the kernel function result in substantially different predictions, calling into question the robustness of the underlying analysis.
 - William T. Stephenson, Soumya Ghosh, Tin D. Nguyen, Mikhail Yurochkin, Sameer K. Deshpande, Tamara Broderick. [Measuring the sensitivity of Gaussian processes to kernel choice](https://arxiv.org/abs/2106.06510). arXiv 2021.
@@ -64,4 +64,4 @@ BNP based Methods for federated learning and model fusion.
 - Mikhail Yurochkin, Mayank Agarwal, Soumya Ghosh, Kristjan Greenewald, Nghia Hoang, Yasaman Khazaeni. [Bayesian nonparametric federated learning of neural networks](https://arxiv.org/abs/1905.12022). ICML 2019.
 - Mikhail Yurochkin, Mayank Agarwal, Soumya Ghosh, Kristjan Greenewald, Nghia Hoang. [Statistical model aggregation via parameter matching](https://arxiv.org/abs/1911.00218). NeurIPS 2019.
 
-An uptodate list of all publicaitons are [here](https://scholar.google.com/citations?user=GEYQenQAAAAJ&hl=en).
+See [here](https://scholar.google.com/citations?user=GEYQenQAAAAJ&hl=en) for an up to date list of publications.
