@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: wide
 title: "Research"
 permalink: /research/
 author_profile: true
-font-size: $type-size-4;
 ---
 
 Broadly, I am interested in questions of trust in a machine learning (ML) analysis. I work on both tools to detect lack-of-robustness in ML analysis and methods for "robustifying" ML analysis through carefully designed models, algorithms that produce well-calibrated uncertainties, and are robust to poor optima.
