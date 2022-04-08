@@ -16,7 +16,7 @@ A naive approach to understanding the effect of data perturbations involves refi
   - Code is availble [here](https://github.com/SoumyaTGhosh/structured-infinitesimal-jackknife) and also as part of the [UQ360 toolbox](https://github.com/IBM/UQ360).
 
 We can also consider the effect of modeling assumptions on inferences drawn from an ML analysis. We look at this question in the context of Gaussian processes and develop a methodology for measuring sensitivity to the choice of the kernel choice. Somewhat surprisingly, we find that in many cases, minor perturbations to the kernel function result in substantially different predictions, calling into question the robustness of the underlying analysis.
-- William T. Stephenson, Soumya Ghosh, Tin D. Nguyen, Mikhail Yurochkin, Sameer K. Deshpande, Tamara Broderick. [Measuring the sensitivity of Gaussian processes to kernel choice](https://arxiv.org/abs/2106.06510). arXiv 2021.
+- William T. Stephenson, Soumya Ghosh, Tin D. Nguyen, Mikhail Yurochkin, Sameer K. Deshpande, Tamara Broderick. [Measuring the robustness of Gaussian processes to kernel choice](https://arxiv.org/abs/2106.06510). AISTATS 2022.
     <!-- - Here is a [talk](https://www.youtube.com/watch?v=z0fXHnAvm9E) Will Stephenson gave at ISBA describing this work.  -->
 
 ### Uncertainty quantification in neural networks
