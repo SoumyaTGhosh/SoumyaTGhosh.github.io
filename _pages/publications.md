@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Recent Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,7 +12,7 @@ author_profile: true
 
 |        |          |        |
 | :-------------: |:-------------| :------------ |
-|    |  [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Fair Infinitesimal Jackknife: Mitigating the Influence of Biased Training Data Points Without Refitting </span>](https://arxiv.org/abs/2212.06803)  <br> <span style="font-size: 12pt"> **Prasanna Sattigeri, Soumya Ghosh, Inkit Padhi, Pierre Dognin** *and* **Kush R. Varshney** </span><br> <span style="font-size: 12pt"> **NeurIPS 2022.**|
+| For a complete list see <u><a href="https://scholar.google.com/citations?hl=en&user=GEYQenQAAAAJ">my Google Scholar profile</a>.</u>  |  [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Fair Infinitesimal Jackknife: Mitigating the Influence of Biased Training Data Points Without Refitting </span>](https://arxiv.org/abs/2212.06803)  <br> <span style="font-size: 12pt"> **Prasanna Sattigeri, Soumya Ghosh, Inkit Padhi, Pierre Dognin** *and* **Kush R. Varshney** </span><br> <span style="font-size: 12pt"> **NeurIPS 2022.**|
 |    |  [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Measuring the robustness of Gaussian processes to kernel choice </span>](https://arxiv.org/abs/2106.06510)  <br> <span style="font-size: 12pt"> **William T. Stephenson, Soumya Ghosh, Tin D. Nguyen, Sameer K. Deshpande** *and* **Tamara Broderick** </span><br> <span style="font-size: 12pt"> **AISTATS 2022.**| [Code](https://github.com/checkGP/checkGP){: .btn .btn--inverse}|
 |    |  [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Approximate Cross-Validation for Structured Models </span>](https://arxiv.org/abs/2006.12669)  <br> <span style="font-size: 12pt"> **Soumya Ghosh<sup>+</sup>, William T. Stephenson<sup>+</sup>, Tin D. Nguyen, Sameer K. Deshpande** *and* **Tamara Broderick** </span><br> <span style="font-size: 12pt"> **NeurIPS 2020.** <br>*+ Equal contributions*| [Code](https://github.com/SoumyaTGhosh/structured-infinitesimal-jackknife){: .btn .btn--inverse}|
 |    |  [<span style="color:rgb(153, 0, 0); font-size: 15pt"> Model Selection in Bayesian Neural Networks via Horseshoe Priors  </span>](http://jmlr.org/papers/v20/19-236.html)  <br> <span style="font-size: 12pt"> **Soumya Ghosh, Jiayu Yao,** *and* **Finale Doshi-Velez** </span><br> <span style="font-size: 12pt"> **Journal of Machine Learning Research, 2019.** <br>*Summarizes and distills insights from our previous conference papers on this topic.* | [Code](https://github.com/IBM/UQ360/tree/main/uq360/models/bayesian_neural_networks){: .btn .btn--inverse}|
